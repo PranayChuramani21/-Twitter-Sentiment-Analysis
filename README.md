@@ -7,12 +7,13 @@ This project is based on the prediction of the sentiments of tweets posted on Tw
 
 * With the Advancement of Natural Language Processing, this project is capable of Analysing the tweets posted on Twitter to predict the sentiment of the tweet i.e. positive, negative or neutral
 
-* As a part of Natural Language Processing, we are using Support Vector Machines algorithm to predict the results.
+* We are using Support Vector Classifier to predict the accurate results.
 
 ### Technology Used
 
 * Natural Language Processing
 * Text Mining
+* NLTK
 * WordNetLemmatizer
 * POS Tagging
 * Stopwords
